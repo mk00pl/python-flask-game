@@ -1,0 +1,6 @@
+API ENDPOINT,RETURN VALUE
+/,displays hello message and asks for authentication
+/login,authenticates user if valid credentials were used
+/profile,returns data of an user if he was logged in
+/logout,logs out if user was logged in
+/play,increse/decrease user stats depending on the roll
